@@ -1,6 +1,6 @@
 name: native_json_api
 description: "native_json_api package project"
-version: 0.0.1
+version: 1.0.0
 homepage:
 repository: https://github.com/lang-library/dart-native-json-api
 
